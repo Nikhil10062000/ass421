@@ -4,6 +4,9 @@ header{
     color: royalblue;
     
 }
+header:hover, h1:hover , .letter:hover{
+    color: whitesmoke;
+}
 
 .contact > h1{
     text-align: center;
