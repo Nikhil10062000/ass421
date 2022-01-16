@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    font-size: 80px;
+    color: royalblue;
+    
+}
+
+.contact > h1{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+.contact{
+    padding: 20px;
+    overflow: scroll;
+    height: 200px;
+    background-color: cyan;
+    margin: 100px;
+    position: flex;
+    flex-wrap: wrap;
+    
+}
+.contact > .letter{
+    position: sticky;
+    background-color: cadetblue;
+    top:0px;
+}
+li{
+list-style: none;
+
+}
+li:hover{
+    font-size: 30px;
+    background-color: snow;
+    
+}
+body{
+    background-color: lightslategrey;
+}
